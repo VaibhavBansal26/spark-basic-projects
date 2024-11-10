@@ -7,4 +7,5 @@ jupyter
 networkx
 matplotlib
 findspark
-nltk    
+nltk
+spark-submit
